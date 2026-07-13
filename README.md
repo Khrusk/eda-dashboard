@@ -109,12 +109,6 @@ The included `data.csv` contains player-level match statistics from a football t
 
 ---
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## Author
 
 Built by **Khrus** — B.Tech CSE student, MNIT Jaipur. Part of learning ML.
